@@ -29,7 +29,7 @@ export default function ProjectsScreen(props) {
 
       <Project
         title="Harvard Computer Society: Workshop 1"
-        link="https://github.com/atnick484/cs50"
+        link="https://github.com/atnick484/HCS-Workshop-1"
         source={HCSPic}
       ></Project>
 
