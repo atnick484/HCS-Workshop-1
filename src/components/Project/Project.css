@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   width: 100%;
-  height: 160px;
+  height: 200px;
   transition: all 0.2s ease-in-out;
   text-decoration: none;
   color: black;
@@ -12,11 +12,14 @@
 .project-background:hover {
   transform: translateX(8px);
   color: #480952;
-  background-image: linear-gradient(to left, white, #fffff0);
+  background-image: linear-gradient(to left, #ffbcff, white);
 }
 
 .project-image {
   display: flex;
+  padding: 35px;
+  width: 10%;
+  height: 10%;
   flex: 1;
   justify-content: center;
   align-items: center;
@@ -24,5 +27,5 @@
 
 .project-info {
   flex: 2;
-  padding: 16px;
+  padding: 50px;
 }

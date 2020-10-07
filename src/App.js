@@ -4,6 +4,10 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import AboutScreen from "./views/About/About";
 import ExperienceScreen from "./views/Experience/Experience";
 import ProjectsScreen from "./views/Projects/Projects";
+import EducationScreen from "./views/Education/Education";
+import VolleyScreen from "./views/MoreAboutVolley/MoreAboutVolley";
+import PianoScreen from "./views/MoreAboutPiano/MoreAboutPiano";
+import PhotoScreen from "./views/MoreAboutPhoto/MoreAboutPhoto";
 
 import Navbar from "./components/Navbar/Navbar";
 
@@ -24,6 +28,10 @@ function App() {
         <Switch>
           <Route path="/experience" component={ExperienceScreen} />
           <Route path="/projects" component={ProjectsScreen} />
+          <Route path="/education" component={EducationScreen} />
+          <Route path="/morevolley" component={VolleyScreen} />
+          <Route path="/morepiano" component={PianoScreen} />
+          <Route path="/morephoto" component={PhotoScreen} />
           <Route path={["/about", "/"]} component={AboutScreen} />
         </Switch>
       </Router>

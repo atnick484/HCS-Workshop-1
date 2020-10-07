@@ -1,0 +1,27 @@
+.intro-background5 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .intro-item5 {
+    display: flex;
+    flex: 1;
+    padding: 35px;
+  }
+  
+  .intro-item5 h1,
+  h2,
+  ul,
+  li {
+    margin: 4px 0;
+  }
+  
+  .intro-item5 p {
+    margin: 8px 0;
+  }
+  
+  .intro-picture5 {
+    width: 100%;
+    height: 100%;
+  }
+  

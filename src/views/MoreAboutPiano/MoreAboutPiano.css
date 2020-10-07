@@ -1,0 +1,27 @@
+.intro-background4 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .intro-item4 {
+    display: flex;
+    flex: 1;
+    padding: 35px;
+  }
+  
+  .intro-item4 h1,
+  h2,
+  ul,
+  li {
+    margin: 4px 0;
+  }
+  
+  .intro-item4 p {
+    margin: 8px 0;
+  }
+  
+  .intro-picture4 {
+    width: 100%;
+    height: 100%;
+  }
+  
