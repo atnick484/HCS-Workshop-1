@@ -10,6 +10,8 @@ topics mentioned.
 Screenshots
 ![AboutButton](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/aboutButton.png)
 
+![AboutWeb](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/aboutWeb.png)
+
 ### Added Feature #2
 
 I added an education page that includes a summary of my education thus far. I also created several
@@ -20,10 +22,19 @@ Screenshots
 
 ![Education](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/education.png)
 
+![EducationWeb](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/educationWeb.png)
+
 ![MorePhoto](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/morephotography.png)
+
+![MorePhotoWeb](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/morePhotoWeb.png)
 
 
 ![MorePiano](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/morepiano.png)
 
+![MorePianoWeb](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/morePianoWeb.png)
+
 
 ![MoreVolley](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/morevolley.png)
+
+
+![MoreVolleyWeb](https://raw.githubusercontent.com/atnick484/HCS-Workshop-1/master/screenshots/moreVolleyWeb.png)
